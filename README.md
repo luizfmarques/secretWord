@@ -1,2 +1,2 @@
 # secretWord
-Application that simulates the word guessing game, by choosing letters.
+React application that simulates the word guessing game, by choosing letters.
